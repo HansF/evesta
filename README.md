@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Evesta Hunch
 
 You can use the [editor on GitHub](https://github.com/HansF/evesta/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
