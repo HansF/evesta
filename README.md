@@ -21,6 +21,7 @@ Heb je vragen, stuur gerust een berichtje!
 5 x per jaar een Privé Mini Hunch organiseren voor max 30 personen.
 * raad en advies geven naar onze eigen ervaringen.
 ....
+
 ### Wat doen wij NIET
 
 * Een (speel) partner voor jou zoeken, We zijn geen dating bureau.
