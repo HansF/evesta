@@ -104,11 +104,13 @@ contact the User. Evesta and the Client are classified as individual controller.
 
 ## 5. Licence for the use of the Ticket service platform
 5.1 Under these general ticket terms and condition Evesta grants the User a revocable, nonexclusive, non-transferrable, limited licence to use the Ticket service platform.
+
 5.2 The use of the Ticket service platform is strictly personal and the User may not share the Ticket
 service platform with a third party without the prior written permission of Evesta. The User is not
 allowed to misuse the Ticket service platform in any way. The information which the User provides
 on the Ticket service platform will not violate any laws or regulations. The User will not establish
 improper relationships with another natural person.
+
 5.3 Evesta reserves the right to change the Ticket service platform or any other service, or to
 suspend these for maintenance, or to temporarily or permanently cancel these, without Evesta
 being liable towards the User. 
@@ -122,15 +124,19 @@ the data subject. The personal data is only processed in accordance with the app
 laws and regulations including the General Data Protection Regulation (“GDPR”). The Ticket
 service platform only processes personal data on behalf of and in accordance with the instructions
 of the controller.
+
 6.2 These general ticket terms and conditions are applicable on processing personal data that
 identifies the User or with which the User can be identified. The Ticket service platform processes
 personal data by requesting this from the User, in addition, personal data may be collected
 automatically.
+
 6.3 Evesta has taken appropriate technical and organisational measure to protect the personal
 data from loss or any type of unlawful processing.
+
 6.4 Any transfer of personal data to a third country outside the European Economic Area (“EEA”)
 or to an international organisation outside the EEA is only done if an appropriate level of security
 has been agreed.
+
 6.5 Evesta retains the personal data as long as this is necessary to realise the purposes of
 processing.
 
@@ -139,6 +145,7 @@ processing.
 graphic user interface, are exclusively controlled by Evesta. Except as explicitly mentioned in
 these general ticket terms and conditions, no other rights or licences regarding intellectual property
 rights will be granted or implied.
+
 7.2 Evesta has taken technical measures to protect the Ticket service platform. The User is not
 allowed to remove or bypass such technical measures or to have these removes or bypassed. If
 technical measures are removed or bypassed, this will immediately lead to suspension of the use
@@ -153,10 +160,13 @@ or other term, processing personal data, violation of an obligation of the Clien
 controller, any loss of profit, indirect damage or other damage (caused by negligence of Evesta,
 its employees or agents or otherwise) and/or the use or misuse of the user account regarding the
 use of the Ticket service platform.
+
 8.2 In cases where Evesta is liable towards the User for any damage or loss, the total cumulative liability of Evesta under these general ticket terms and conditions is maximum EUR 100.- (one hundred Euro).
+
 8.3 The User explicitly acknowledges and agreed that the use of the Ticket service platform is at
 the User's own risk. Insofar as allowed by Belgian law, the Ticket service platform is supplied “AS
 IS”, with all defects and without any type of guarantee.
+
 8.4 Evesta has the right, without any prior notification, to decommission the Ticket service platform
 or to restrict the use thereof or to provide a reason for this and without being obliged to pay any
 damage compensation to the User.
@@ -168,5 +178,6 @@ arising from or in connection with these general ticket terms and conditions wil
 submitted to the authorised courts in ’s-Hertogenbosch.
 
 ## 10. Contact details
+
 10.1 If the User has questions about these general ticket terms and conditions, he must contract
 Evesta on: Evesta, portugeesstraat 105, 1790 Affligem or info@evestahun.ch
