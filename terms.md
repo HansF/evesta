@@ -37,24 +37,31 @@ platform.
 3.1 The Ticket service platform automatically creates a user account with the purchase of a ticket
 by the User. Various personal data must be entered for this. To create a user account, the following
 information from the User is required:
-a) first name;
-b) last name;
-c) e-mail;
+* first name;
+* last name;
+* e-mail;
 
 3.2 The User must at least comply with the following requirements;
-a) a User must have an account on the platform;
-b) a User much be reachable by e-mail.
+* a User must have an account on the platform;
+* a User much be reachable by e-mail.
+
 3.3 The User is responsible for the correctness of the information in his user account..
+
 3.4 Evesta is always and under all circumstances entitled not to process a purchase of a Ticket
 via the Ticket service platform or to comply with this under other conditions.
+
 3.5 The User is responsible for the use of the username and the password of his user account.
 Evesta recommends the User to use a unique password and to carefully store this password and
 to keep this confidential.
+
 3.6 The User is not allowed to let others use his personal account. Evesta is not responsible for unauthorised use of the user account.
+
 3.7 When buying Ticket(s) the User agrees to act in accordance with these general ticket terms
 and conditions.
+
 3.8 Evesta is not liable for the late or unclear transfer of information or manifest writing errors,
 regardless whose information it concerns or to whom this is provided.
+
 3.9 Evesta may take all measures that it considers necessary, including but not limited to blocking
 or deleting the user account or blocking the sale and/or purchase of ticket(s) in the Ticket service
 platform. More specific, the access to the user account can be refused or limited, depending on
@@ -62,7 +69,8 @@ the commercial past of the User and his behaviour on the Ticket service platform
 discretion of Evesta.
 
 ## 4. The Ticket service platform
-4.1The Ticket is an entry ticket to an event organised by the Client that is offered by Evesta to the
+
+4.1 The Ticket is an entry ticket to an event organised by the Client that is offered by Evesta to the
 User via the Ticket service platform. When buying Ticket(s) the User of the Ticket service platform
 concludes a remote agreement with Evesta as referred to in at. 6.230g Civil Code e.v. Evesta
 reserves to the right to adjust this remote agreement.
@@ -85,14 +93,14 @@ waives his right to dissolve.
 
 4.5 Evesta receives personal data of the User via the Ticket service platform. When using the
 Ticket service, the following personal data of the user is collected:
-a) First and last name;
-b) Street and number, postal code, town and country;
-c) E-mail address;
-d) Telephone number;
-e) IP address of the internet connection solved by the device used;
-f) Information collected by cookies;
-g) Other information of the user account;
-h) Behaviour on websites.
+* First and last name;
+* Street and number, postal code, town and country;
+* E-mail address;
+* Telephone number;
+* IP address of the internet connection solved by the device used;
+* Information collected by cookies;
+* Other information of the user account;
+* Behaviour on websites.
 
 4.6 Evesta’ purpose for processing personal data is the delivery of Ticket(s) to the Users. The
 principle used for this is the permission of the User, the execution of the Agreement and/or that
@@ -103,6 +111,7 @@ platform. Other purposes are improvement of the Ticket service platform and the 
 contact the User. Evesta and the Client are classified as individual controller.
 
 ## 5. Licence for the use of the Ticket service platform
+
 5.1 Under these general ticket terms and condition Evesta grants the User a revocable, nonexclusive, non-transferrable, limited licence to use the Ticket service platform.
 
 5.2 The use of the Ticket service platform is strictly personal and the User may not share the Ticket
@@ -117,6 +126,7 @@ being liable towards the User.
 General Ticket Terms & Conditions Evesta
 
 ## 6. Data protection
+
 6.1 With respect to processing personal data via the Ticket service platform Evesta is individual
 controller. The Client and Evesta both have individual influence on the purpose and means of
 processing personal data. Personal data is processed via the Ticket service platform. The User is
@@ -141,6 +151,7 @@ has been agreed.
 processing.
 
 ## 7. Intellectual property
+
 7.1 All intellectual property rights regarding the Ticket service platform, including but not limited to source codes, websites, portal data files, trade brands, designs and copyrights with respect to
 graphic user interface, are exclusively controlled by Evesta. Except as explicitly mentioned in
 these general ticket terms and conditions, no other rights or licences regarding intellectual property
@@ -153,6 +164,7 @@ of the Ticket service platform and notwithstanding the right of Evesta to claim 
 compensation.
 
 ## 8. Liability
+
 8.1 Evesta is not liable towards the User for any damage suffered by the User as a result of the
 use of the Ticket service platform, the execution of the Ticket agreement, any action of Evesta
 (unless intent, gross negligence or conscious recklessness), any implied guarantee, any condition
